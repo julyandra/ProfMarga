@@ -1,12 +1,7 @@
-#Sobre mim
-- 👋 Oi, eu sou a professora Margarete
-- 👀 Estou interessada em Programação
+- # sobre mim
+- oi,eu sou a julyandra
+- 👀 estou interessada em desenho
+- 🌱 estou estuando tcnicas do desenho
+-
+- 📫 @_julyandra_
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ProfMarga/ProfMarga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
